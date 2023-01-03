@@ -1,4 +1,4 @@
-# AI-Studio-项目标题
+# 【飞桨学习赛：MarTech Challenge 用户购买预测】第6名方案
 > 【飞桨学习赛：MarTech Challenge 用户购买预测】第6名方案
 
 ## 项目描述
